@@ -6,3 +6,8 @@
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+node_modules/
+dist/
+
+package-lock.json
