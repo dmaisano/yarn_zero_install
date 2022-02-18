@@ -9,3 +9,7 @@ Running the projects without installing any dependencies!
   - `cd yarn_zero_install`
   
 2. run the project with `yarn start` or `yarn run start`
+
+### notes
+
+- Yarn should use the version specified in the [.yarnrc.yml](.yarnrc.yml) file. In this case it will use `yarn-3.1.1`
